@@ -1,0 +1,21 @@
+/*
+ selector {
+ property: value;
+ }
+   */
+
+body {
+  font-family: andalus, Times, serif;
+  color: black;
+  width: 800px;
+  margin: 0 auto;
+}
+#head1 {
+  font-family: Bittersweet SF, arial, sans-serif;
+  font-size:300%;
+}
+#intro {
+  font-size: 150%;
+  color: #268;
+}
+
