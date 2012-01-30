@@ -4,18 +4,32 @@
  }
    */
 
+html {
+  background-color: #222
+  }
+
 body {
-  font-family: andalus, Times, serif;
-  color: black;
+  background-image: url ("lib.store.yahoo.net/lib/yhst-37542584897213/more-hmm-eames-plastic-arm-colors02.jpg");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  font-family: Californian FB, Times, serif;
+  color: #888;
   width: 800px;
   margin: 0 auto;
 }
 #head1 {
-  font-family: Bittersweet SF, arial, sans-serif;
-  font-size:300%;
+  font-family: Bittersweet NF, Andalus, sans-serif;
+  font-size:500%;
 }
 #intro {
-  font-size: 150%;
+  font-size: 200%;
   color: #268;
 }
-
+#about {
+  float:left;
+  width:390px;
+}
+#navigation {
+  float:right;
+  width:390px;
+}
